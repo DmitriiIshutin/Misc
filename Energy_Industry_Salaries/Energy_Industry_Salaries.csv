@@ -1,0 +1,38 @@
+Segment,Title,Lower,Upper
+Account management,Account manager,35,75
+Account management,Client portfolio manager,35,50
+Account management,Client relationship manager,40,50
+Account management,Key account manager,55,75
+Account management,Head of account management,75,110
+Account management,TPI account manager,28,60
+Back office,Business analyst,35,45
+Back office,Head of IT,58,112
+Back office,Head of pricing,70,90
+Back office,Insight analyst,35,40
+Back office,Analytics manager,60,100
+Back office,Pricing analyst,27,33
+Back office,Procurement manager,35,40
+Back office,Product manager,55,75
+Back office,Margin analyst,33,43
+Back office,Senior pricing analyst,45,65
+Back office,Settlements manager,32,50
+Executive,Commercial director,120,160
+Executive,COO,125,180
+Executive,Operations director,120,160
+Executive,CCO,180,250
+Executive,CFO,140,180
+Operations,Head of operations,50,80
+Operations,Senior operations analyst,32,45
+Operations,SMART implementation,30,40
+Operations,Operations manager,30,50
+Risk and trading,Head of risk,70,125
+Risk and trading,Risk analyst,29,56
+Risk and trading,Risk manager,42,65
+Risk and trading,Trader,50,80
+Risk and trading,Senior trader,70,110
+Risk and trading,Head of trading,120,160
+Commercial,Business development manager,45,75
+Commercial,Commercial manager,45,60
+Commercial,Head of sales,75,110
+Commercial,PPA originator,55,120
+Commercial,Head of origination,110,160
